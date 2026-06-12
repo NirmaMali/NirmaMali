@@ -1,5 +1,4 @@
 # 👾 Nirma Mali
-Full-Stack Developer (MERN) | CSE @ VTU '27 | Building AI-Powered Web Solutions | Exploring GenAI & Cloud (AWS) | Open to Internships & Collaborations
 
 
 ## 🌐 Socials:
